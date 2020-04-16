@@ -6,9 +6,9 @@
 h1 {
 	border-style: solid;
 	border-width: 1px 3px 3px 1px;
-	border-color: maroon;
+	border-color: midnightblue;
 	padding: 6px;
-	background-color: aliceblue;
+	background-color: lavender;
 	font-size: x-large;
 	text-align: center;
 }
@@ -16,7 +16,7 @@ h1 {
 
 /*
 h2	{font-family:"MS UI Gothic";
-	font-size:large;font-weight:bold;color:maroon;
+	font-size:large;font-weight:bold;color:navy;
 	background-image:url("./line01.bmp");
 		background-position:bottom;
 		background-repeat:repeat-x;}
@@ -25,10 +25,10 @@ h2	{font-family:"MS UI Gothic";
 h2 {
 	border-style: solid;
 	border-width: 0px 0px 1px 10px;
-	border-color: sienna;
+	border-color: indigo;
 	padding: 4px 0px 3px 10px;
 	font-family:"MS UI Gothic";
-	font-size:large;font-weight:bold;color:maroon;
+	font-size:large;font-weight:bold;color:navy;
 }
 
 p	{font-family:"MS UI Gothic";
@@ -45,10 +45,10 @@ A:visited	{font-family:"Century Gothic";
 
 td.top	{font-family:"MS UI Gothic";
         font-size:large;color:white;
-	background-color:sienna;}
+	background-color: slateblue;}
 
-td	{border:solid sienna 1pt;
+td	{border:solid midnightblue 1pt;
 	padding:10px;}
 
-ul      {margin: 0 0 0 1em;
-	 padding: 0;}
+ul {    margin: 0 0 0 1em;
+	padding: 0;}
