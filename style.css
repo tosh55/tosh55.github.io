@@ -1,0 +1,54 @@
+/*h1	{font-family:"Century Gothic";
+	font-size:x-large;font-weight:bold;color:black}
+*/
+
+
+h1 {
+	border-style: solid;
+	border-width: 1px 3px 3px 1px;
+	border-color: maroon;
+	padding: 6px;
+	background-color: aliceblue;
+	font-size: x-large;
+	text-align: center;
+}
+
+
+/*
+h2	{font-family:"MS UI Gothic";
+	font-size:large;font-weight:bold;color:maroon;
+	background-image:url("./line01.bmp");
+		background-position:bottom;
+		background-repeat:repeat-x;}
+*/
+
+h2 {
+	border-style: solid;
+	border-width: 0px 0px 1px 10px;
+	border-color: sienna;
+	padding: 4px 0px 3px 10px;
+	font-family:"MS UI Gothic";
+	font-size:large;font-weight:bold;color:maroon;
+}
+
+p	{font-family:"MS UI Gothic";
+        font-size:medium;color:black}
+
+li	{font-family:"Century Gothic";
+        font-size:medium;color:black}	
+
+A	{font-family:"Century Gothic";
+	font-size:medium;font-weight:bold;color:purple}
+
+A:visited	{font-family:"Century Gothic";
+	font-size:medium;font-weight:bold;color:green}
+
+td.top	{font-family:"MS UI Gothic";
+        font-size:large;color:white;
+	background-color:sienna;}
+
+td	{border:solid sienna 1pt;
+	padding:10px;}
+
+ul      {margin: 0 0 0 1em;
+	 padding: 0;}
